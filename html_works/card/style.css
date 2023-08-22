@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+
+}
+
+
+.section{
+    width: 200px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: yellow;
+    margin-top: 30px;
+    text-align: center;
+    padding: 50px;
+}
+
+.one{
+    background-color: brown;
+    margin-left: 35%;
+    margin-top: 40px;
+    margin-right: auto;
+}
+
+.two{
+    background-color: orangered;
+    margin-left: 35%;
+    margin-top: 50px;
+
+}
+
+.three{
+    background-color: brown;
+    margin-right: auto;
+   
+}

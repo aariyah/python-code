@@ -1,0 +1,7 @@
+
+    <em> to denote stress emphasis
+    <b> to draw attention to text
+    <mark> to mark key words or phrases
+    <strong> to indicate that text has strong importance
+    <cite> to mark the titles of books or other publications
+    <i> to denote technical terms, transliterations, thoughts, or names of vessels in Western texts

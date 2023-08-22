@@ -1,0 +1,49 @@
+.row{
+    width: 50%;
+    background-color:white ;
+    border: 1px solid black;
+    height: 300px;
+    margin-left: 100px;
+    position: relative;
+
+}
+
+.col{
+    width: 20%;
+    height: 200px;
+    border: 1px solid orange;
+}
+
+
+.col:nth-child(1){
+    background-color: yellowgreen;
+    position: absolute;
+    top: 0;
+}
+
+.col:nth-child(2){
+    background-color: blueviolet;
+    top: 0;
+    position: absolute;
+    right: 0;
+}
+.col:nth-child(3){
+    position: absolute;
+    background-color: burlywood;
+    margin-left: 300px;
+}
+.col:nth-child(4){
+    position: absolute;
+    background-color: chartreuse;
+}
+.row2{
+    display: flex;
+    background-color: beige;
+    width:50%;
+    border:1px solid black;
+    height: 150px;
+    margin-left: 150px;
+    margin-top: 80px;
+    position: relative;
+
+}
